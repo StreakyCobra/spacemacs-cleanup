@@ -29,10 +29,10 @@ API_URL = 'https://api.github.com/repos/{}/{}/issues'.format(USER, REPO)
 BASE_URL = 'https://github.com'
 """str: Name of the repository owner."""
 
-REPORT_URL = '{}/{}/{}/issues/3549'.format(BASE_URL, USER, REPO)
+REPORT_URL = '{}/{}/{}/issues/7334'.format(BASE_URL, USER, REPO)
 """str: URL for reporting used in user's message."""
 
-INFO_URL = '{}/{}/{}/wiki/Autumnal-Cleanup-2015'.format(
+INFO_URL = '{}/{}/{}/wiki/Autumnal-Cleanup-2016'.format(
     BASE_URL, USER, REPO)
 """str: URL for information used in user's message."""
 
